@@ -1,4 +1,8 @@
 if __name__ == "__main__":
+    """
+    Here we try to open a file and read from it
+    then we attempt to write into a file then read from it
+    """
     print("=== CYBER ARCHIVES - VAULT SECURITY SYSTEM ===")
     print()
     print("Initiating secure vault access...")

@@ -1,4 +1,7 @@
 if __name__ == "__main__":
+    """
+    Here we attemp to read from a file, and handle specific error cases
+    """
     print("=== CYBER ARCHIVES - CRISIS RESPONSE SYSTEM ===")
     print()
     print("CRISIS ALERT: Attempting access to 'lost_archive.txt'...")

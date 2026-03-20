@@ -1,4 +1,7 @@
 def archive_creation() -> None:
+    """
+    Here we are attempting to open a file and write stuff into it
+    """
     print("=== CYBER ARCHIVES - PRESERVATION SYSTEM ===")
     print()
     print("Initializing new storage unit: new_discovery.txt")

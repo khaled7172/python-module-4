@@ -1,6 +1,9 @@
 import sys
 
 if __name__ == "__main__":
+    """
+    Here we use sys to write into stdout and stderr
+    """
     print("=== CYBER ARCHIVES - COMMUNICATION SYSTEM ===")
     archivist_id = input("Input Stream active. Enter archivist archivist_id: ")
     report = input("Input Stream active. Enter status report: ")

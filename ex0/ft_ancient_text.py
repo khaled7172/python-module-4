@@ -1,4 +1,7 @@
 def recover_ancient_fragments() -> None:
+    """
+    This method attempts to open a file and read data then close the file
+    """
     print("=== CYBER ARCHIVES - DATA RECOVERY SYSTEM ===")
     print()
     print("Accessing Storage Vault: ancient_fragment.txt")
